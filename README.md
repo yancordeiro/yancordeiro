@@ -7,6 +7,8 @@ Desenvolvedor em desenvolvimento.
   <a href="https://github.com/yancordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yancordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yancordeiro&layout=compact&langs_count=7&theme=dracula"/>
+        <a href="https://app.daily.dev/Cordeiro"><img src="https://api.daily.dev/devcards/a3155ce3daca452382ded3d189dbf09f.png?r=yv7" width="200" alt="Yan's Dev Card"/></a>
+
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -19,7 +21,3 @@ Desenvolvedor em desenvolvimento.
 </div>
   
   ##
-  
-  <div align="center">
-    <a href="https://app.daily.dev/Cordeiro"><img src="https://api.daily.dev/devcards/a3155ce3daca452382ded3d189dbf09f.png?r=yv7" width="200" alt="Yan's Dev Card"/></a>
-  </div>
