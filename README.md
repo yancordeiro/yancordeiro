@@ -19,4 +19,7 @@ Desenvolvedor em desenvolvimento.
 </div>
   
   ##
-<a align="center" href="https://app.daily.dev/Cordeiro"><img src="https://api.daily.dev/devcards/a3155ce3daca452382ded3d189dbf09f.png?r=yv7" width="400" alt="Yan's Dev Card"/></a>
+  
+  <div align="center">
+    <a href="https://app.daily.dev/Cordeiro"><img src="https://api.daily.dev/devcards/a3155ce3daca452382ded3d189dbf09f.png?r=yv7" width="200" alt="Yan's Dev Card"/></a>
+  </div>
